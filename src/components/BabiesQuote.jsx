@@ -9,7 +9,7 @@ function BabiesQuote() {
                 <h2>
                     --- Mohammed Yunus.
                     <br />
-                    --- Anjum.
+                    --- Anjum Aara.
                 </h2>
             </div>
         </section>
