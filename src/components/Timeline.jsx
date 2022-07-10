@@ -10,7 +10,7 @@ function Timeline() {
                     <div className="col-lg-6 left" data-aos="fade-down">
                         <h1>Shukrana</h1>
                         <p>
-                            On Saturdayday, 16<sup>th</sup> July, 2022,
+                            On Saturday, 16<sup>th</sup> July, 2022,
                             <br />
                             Time: 09:00 PM
                         </p>
